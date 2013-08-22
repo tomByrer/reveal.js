@@ -688,7 +688,7 @@ The core of reveal.js is very easy to install. You'll simply need to download a 
 
 For development, it is best to test with all files on a local drive, but for deployment on a host, serving some files via CDNs may allow faster to-glass time.  CDNs may also allow only the HTML file to be needed on internet connected clients.
 
-1. Download [index.html directly](https://raw.github.com/hakimel/reveal.js/blob/master/index.html) or retrieve from the [zip\(https://github.com/hakimel/reveal.js/archive/master.zip) archive. 
+1. Download [index.html directly](https://raw.github.com/hakimel/reveal.js/blob/master/index.html) or retrieve from the [zip](https://github.com/hakimel/reveal.js/archive/master.zip) archive. 
 
 2. Replace the example contents in index.html with your own.
  
